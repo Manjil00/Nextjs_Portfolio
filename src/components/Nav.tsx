@@ -14,14 +14,14 @@ const toggleNavMenu = () => {
 return (
     <nav className="flex justify-between items-center px-6 py-3 bg-black z-50 relative">
     <div className="flex items-center">
-        <h1 className="text-white text-sm md:text-4xl font-sans cursor-pointer ml-3 md:ml-6">
+        <h1 className="text-white text-xl md:text-4xl font-sans cursor-pointer ml-3 md:ml-6 z-[100]">
         Manjil Maharjan
         </h1>
     </div>
 
     <div
         id="nav-menu"
-        className={`absolute left-0 top-[90%] md:left-[550px] md:top-[80px] w-full flex flex-col gap-4 p-5 min-h-[30vh] md:flex md:flex-row md:items-center md:gap-8 md:w-auto md:min-h-fit transition-transform duration-300 ${
+        className={`bg-black absolute left-0 top-[90%] md:left-[550px] md:top-[80px] w-full flex flex-col gap-4 p-5 min-h-[30vh] md:flex md:flex-row md:items-center md:gap-8 md:w-auto md:min-h-fit transition-transform duration-200 ${
         isNavOpen ? 'translate-y-0' : '-translate-y-full'
         }`}
     >
