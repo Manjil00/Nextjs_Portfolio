@@ -1,4 +1,4 @@
-import Footer from '@/components/Footer'
+
 import Nav from '@/components/Nav'
 
 
@@ -51,7 +51,7 @@ return (
         </div>
 
     </div>
-    <Footer/>
+    
     </div>
 )
 }

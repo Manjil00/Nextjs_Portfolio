@@ -4,7 +4,6 @@ import Socials from '@/components/Socials';
 import Progress from '@/components/Progress';
 import Resume from '@/components/Resume';
 import Journey from '@/components/Journey';
-import Footer from '@/components/Footer';
 
 export default function Homepage(){
 return (
@@ -67,7 +66,6 @@ return (
         <Journey/>
     </div>
 
-        <Footer/>
     </div>
 )
 }
