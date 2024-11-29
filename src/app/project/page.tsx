@@ -19,12 +19,12 @@ return (
                     </div>
                     <div className="imgpart rounded-xl  h-[200px] md:h-auto w-[800px] p-3 gap-5 bg-white flex flex-col justify-center items-center">
                         <div className="upperimg flex justify-between items-center gap-2">
-                        <img src='../images/projectsimg/nursery1.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
-                        <img src='../images/projectsimg/nursery2.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                        <img src='../images/nursery1.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                        <img src='../images/nursery2.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
                         </div>
                     <div className="lowerimg flex justify-between items-center gap-2">
-                    <img src='../images/projectsimg/e-commerceaboutus.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
-                    <img src='../images/projectsimg/e-commerceaboutus.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                    <img src='../images/nursery3.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                    <img src='../images/nursery4.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
                     </div>
                     </div>
                 </div>
@@ -36,12 +36,12 @@ return (
                     </div>
                     <div className="imgpart rounded-xl  h-[200px] md:h-auto w-[450px] p-3 gap-5 bg-white flex flex-col justify-center items-center">
                         <div className="upperimg flex justify-between items-center gap-2">
-                        <img src='../images/projectsimg/adminpanel.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
-                        <img src='../images/projectsimg/news.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                        <img src='../images/Krezona1.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                        <img src='../images/Kre2.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
                         </div>
                     <div className="lowerimg flex justify-between items-center gap-2">
-                    <img src='../images/projectsimg/weather.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
-                    <img src='../images/projectsimg/e-commerceaboutus.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                    <img src='../images/Dnd1.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
+                    <img src='../images/Dnd2.png' className='h-[50px] w-[50px] md:h-[50%] md:w-[50%]' alt='pic'/>
                     </div>
                     </div>
                 </div>
