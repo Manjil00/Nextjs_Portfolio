@@ -21,7 +21,7 @@ return (
 
     <div
         id="nav-menu"
-        className={`absolute left-0 top-[90%] w-full flex flex-col gap-4 p-5 min-h-[30vh] md:static md:flex md:flex-row md:items-center md:gap-8 md:w-auto md:min-h-fit transition-transform duration-300 ${
+        className={`absolute left-0 top-[90%] md:left-[550px] md:top-[80px] w-full flex flex-col gap-4 p-5 min-h-[30vh] md:flex md:flex-row md:items-center md:gap-8 md:w-auto md:min-h-fit transition-transform duration-300 ${
         isNavOpen ? 'translate-y-0' : '-translate-y-full'
         }`}
     >
@@ -30,13 +30,13 @@ return (
             <Link href="/">Home</Link>
         </li>
         <li className="text-white hover:text-slate-500">
-            <Link href="/Projects">Project Showcase</Link>
+            <Link href="/project">Project Showcase</Link>
         </li>
         <li className="text-white hover:text-slate-500">
-            <Link href="/Aboutme">About Me</Link>
+            <Link href="/about">About Me</Link>
         </li>
         <li className="text-white hover:text-slate-500">
-            <Link href="/Contact">Contact Info</Link>
+            <Link href="/contact">Contact Info</Link>
         </li>
         </ul>
     </div>
