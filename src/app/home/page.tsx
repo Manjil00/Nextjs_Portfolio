@@ -32,7 +32,7 @@ export default function Homepage() {
                             className="rounded-full border-4 border-bgcolorlite object-cover bg-opacity-30"
                             width={400}
                             height={400}
-                            layout="intrinsic" // Scales based on intrinsic size
+                            layout="intrinsic"
                             sizes="(max-width: 768px) 50vw, (max-width: 1024px) 30vw, 20vw"
                         />
                     </div>
